@@ -1,0 +1,243 @@
+﻿++Решение "kursovaya" ‎(проекты: 1 из 1)
+i:{00000000-0000-0000-0000-000000000000}:kursovaya.sln
+++kursovaya
+i:{00000000-0000-0000-0000-000000000000}:kursovaya
+++Properties
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\properties\
+++AssemblyInfo.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\properties\assemblyinfo.cs
+++Resources.resx
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\properties\resources.resx
+++Resources.Designer.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\properties\resources.designer.cs
+++Settings.settings
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\properties\settings.settings
+++Ссылки
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:
+++Microsoft.CSharp
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:
+++Microsoft.Office.Core
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:
+++Microsoft.Office.Interop.Word
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:
+++System
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:
+++System.Core
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:
+++System.Data
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:
+++System.Data.DataSetExtensions
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:
+++System.Deployment
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:
+++System.Drawing
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:
+++System.Net.Http
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:
+++System.Windows.Forms
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:
+++System.Xml
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:
+++System.Xml.Linq
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:
+++VBIDE
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:
+++App.config
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\app.config
+++App.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\app.cs
+++Avtors.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\avtors.cs
+++books.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\books.cs
+++Clients.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\clients.cs
+++DD.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\dd.cs
+++DD.Designer.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\dd.designer.cs
+++DD.resx
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\dd.resx
+++Form1.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\form1.cs
+++Menu.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\menu.cs
+++MenuClient.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\menuclient.cs
+++Program.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\program.cs
+++ru.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\ru.cs
+++Sotr.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\sotr.cs
+++Vxod.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\vxod.cs
+++WordHelper.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\wordhelper.cs
+++Work.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\work.cs
+++Zakaz.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\zakaz.cs
+++Zavka.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\zavka.cs
+++ZZ.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\zz.cs
+++ИздательствоDataSet.xsd
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\издательствоdataset.xsd
+++ИздательствоDataSet.Designer.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\издательствоdataset.designer.cs
+++ИздательствоDataSet.xsc
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\издательствоdataset.xsc
+++ИздательствоDataSet.xss
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\издательствоdataset.xss
+++ИздательствоDataSet1.xsd
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\издательствоdataset1.xsd
+++ИздательствоDataSet1.Designer.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\издательствоdataset1.designer.cs
+++ИздательствоDataSet1.xsc
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\издательствоdataset1.xsc
+++ИздательствоDataSet1.xss
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\издательствоdataset1.xss
+++ИздательствоDataSet2.xsd
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\издательствоdataset2.xsd
+++ИздательствоDataSet2.Designer.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\издательствоdataset2.designer.cs
+++ИздательствоDataSet2.xsc
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\издательствоdataset2.xsc
+++ИздательствоDataSet2.xss
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\издательствоdataset2.xss
+++Settings.Designer.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\properties\settings.designer.cs
+++App.resx
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\app.resx
+++Avtors.Designer.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\avtors.designer.cs
+++Avtors.resx
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\avtors.resx
+++books.Designer.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\books.designer.cs
+++books.resx
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\books.resx
+++Clients.Designer.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\clients.designer.cs
+++Clients.resx
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\clients.resx
+++Form1.Designer.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\form1.designer.cs
+++Form1.resx
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\form1.resx
+++Menu.Designer.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\menu.designer.cs
+++Menu.resx
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\menu.resx
+++MenuClient.Designer.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\menuclient.designer.cs
+++MenuClient.resx
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\menuclient.resx
+++ru.Designer.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\ru.designer.cs
+++ru.resx
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\ru.resx
+++Sotr.Designer.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\sotr.designer.cs
+++Sotr.resx
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\sotr.resx
+++Vxod.Designer.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\vxod.designer.cs
+++Vxod.resx
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\vxod.resx
+++Work.Designer.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\work.designer.cs
+++Work.resx
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\work.resx
+++Zakaz.Designer.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\zakaz.designer.cs
+++Zakaz.resx
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\zakaz.resx
+++Zavka.Designer.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\zavka.designer.cs
+++Zavka.resx
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\zavka.resx
+++ZZ.resx
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\zz.resx
+++standart.docx
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\standart.docx
+++Accept.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\accept.cs
+++bin
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\bin\
+++Debug
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\bin\debug\
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\
+++Release
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\bin\release\
+++kursovaya.exe
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\bin\debug\kursovaya.exe
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.exe
+++kursovaya.exe.config
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\bin\debug\kursovaya.exe.config
+++kursovaya.pdb
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\bin\debug\kursovaya.pdb
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.pdb
+++Form2.Designer.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\form2.designer.cs
+++obj
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\
+++TempPE
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\temppe\
+++.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\.netframework,version=v4.7.2.assemblyattributes.cs
+++DesignTimeResolveAssemblyReferences.cache
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\designtimeresolveassemblyreferences.cache
+++DesignTimeResolveAssemblyReferencesInput.cache
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\designtimeresolveassemblyreferencesinput.cache
+++kursovaya.App.resources
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.app.resources
+++kursovaya.Avtors.resources
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.avtors.resources
+++kursovaya.books.resources
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.books.resources
+++kursovaya.Clients.resources
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.clients.resources
+++kursovaya.csproj.AssemblyReference.cache
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.csproj.assemblyreference.cache
+++kursovaya.csproj.CoreCompileInputs.cache
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.csproj.corecompileinputs.cache
+++kursovaya.csproj.FileListAbsolute.txt
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.csproj.filelistabsolute.txt
+++kursovaya.csproj.GenerateResource.cache
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.csproj.generateresource.cache
+++kursovaya.csproj.ResolveComReference.cache
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.csproj.resolvecomreference.cache
+++kursovaya.csproj.SuggestedBindingRedirects.cache
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.csproj.suggestedbindingredirects.cache
+++kursovaya.DD.resources
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.dd.resources
+++kursovaya.Form1.resources
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.form1.resources
+++kursovaya.Menu.resources
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.menu.resources
+++kursovaya.MenuClient.resources
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.menuclient.resources
+++kursovaya.Properties.Resources.resources
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.properties.resources.resources
+++kursovaya.ru.resources
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.ru.resources
+++kursovaya.Sotr.resources
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.sotr.resources
+++kursovaya.Vxod.resources
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.vxod.resources
+++kursovaya.Work.resources
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.work.resources
+++kursovaya.Zakaz.resources
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.zakaz.resources
+++kursovaya.Zavka.resources
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.zavka.resources
+++kursovaya.ZZ.resources
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\kursovaya.zz.resources
+++ИздательствоDataSet.Designer.cs.dll
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\temppe\издательствоdataset.designer.cs.dll
+++ИздательствоDataSet1.Designer.cs.dll
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\temppe\издательствоdataset1.designer.cs.dll
+++ИздательствоDataSet2.Designer.cs.dll
+i:{d352173a-3cc3-426b-bc90-c7a545673a2b}:c:\users\софья блинова\documents\visual studio 2022\kursovaya\obj\debug\temppe\издательствоdataset2.designer.cs.dll
